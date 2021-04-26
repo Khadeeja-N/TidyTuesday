@@ -7,7 +7,7 @@ Tidy Tuesday data project is an on-going group project that is concerned with an
 Step 1 is concerned with describing your selected data for the benefit of someone who has never seen it before and 
 statingwhat you are trying to find out. 
 
-Step 2 is concerned with exploring your transformed datain R. You will summarize and visualize variables of interest in your data and
+Step 2 is concerned with exploring your transformed data in R. You will summarize and visualize variables of interest in your data and
 emphasize on the effective communication of the results. You will, therefore, write about the results of your analysis in 
 R Markdown to produce a PDF documentof your report. 
 
